@@ -2,27 +2,147 @@
 .body{
     background-color: rgb(221, 221, 221);
     margin: 0px;
+font-size: larger;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
 }
 
 .logo{
     background-color: rgb(35, 50, 66);
+    padding-top:10px ;
 }
 
 .img1{
-height: 70px;
+height: 50px;
+padding-left: 25px ;
 }
 
 .selezione{
    background-color: rgb(34, 56, 82) ;
 font-size: small;
 color: aliceblue;
+height: 24px;
+
+}
+.p1{
+    padding-top: 4px;
+font-size: medium;
+    margin-left: 20px;
 
 }
 
-.holiday1{
+.contenitore1{
     text-align: center;
-    padding: 1px;
+    height: 30px;
     background-color: tomato;
+    color: aliceblue;
+    margin: 50px;
 }
 
+.p2{
+    padding-top:5px;
+}
 
+.contenitore2{
+    text-align: center;
+    background-image: url(assets/bg-image.png);
+    height: 180px;
+    font-size: xx-large;
+    color: aliceblue;
+    margin: 45px;
+}
+
+.p3{
+    padding-top:50px ;
+}
+
+.p4{
+    font-size: medium;
+    padding-top: 40px;
+}
+
+.contenitore3{
+    margin: 50px;
+    background-color: aliceblue;
+}
+
+.img2{
+height: 400px;
+margin: 50px;
+border-radius: 20px;
+width: 340px;
+box-shadow: 10px 10px 5px  #dbd9d9;
+}
+
+.img3{
+    height: 400px;
+    width: 340px;
+    margin: 50px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px  #dbd9d9;
+}
+
+.img4{
+    height: 400px;
+    width: 350px;
+    margin: 50px;
+border-radius: 20px;
+box-shadow: 10px 10px 5px  #dcdbdb;
+}
+
+.img5{
+    height: 420px;
+    margin: 30px;
+    width: 350px;
+border-radius: 20px;
+box-shadow: 10px 10px 5px #dbd9d9;
+}
+
+.p5{
+    padding-top:15px ;
+    padding-left:15px ;
+    font-size: large;
+}
+
+.img6{
+height: 550px;
+margin-left: 52px;
+}
+
+.p6{
+text-align: center;
+padding-bottom: 40px;
+}
+
+.img7{
+    height: 553px;
+    margin-left: 52px;
+}
+
+.p7{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.p8{
+background-color: rgb(34, 56, 82) ;
+padding: 15px;
+color: rgb(255, 253, 251);
+text-align: center;
+}
+
+.logo2{
+    background-color: rgb(35, 50, 66) ;
+    padding-bottom: 150px;
+
+}
+
+.img8{
+    padding-left: 810px;
+    padding-top: 80px;
+    height: 100px;
+}
+
+.link{
+    color: antiquewhite;
+}
