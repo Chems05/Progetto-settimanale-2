@@ -1,0 +1,28 @@
+/* Your styles here */
+.body{
+    background-color: rgb(221, 221, 221);
+    margin: 0px;
+}
+
+.logo{
+    background-color: rgb(35, 50, 66);
+}
+
+.img1{
+height: 70px;
+}
+
+.selezione{
+   background-color: rgb(34, 56, 82) ;
+font-size: small;
+color: aliceblue;
+
+}
+
+.holiday1{
+    text-align: center;
+    padding: 1px;
+    background-color: tomato;
+}
+
+
